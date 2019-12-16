@@ -1,4 +1,4 @@
-# Member-Functions-in-Classes
+# Member-Functions-in-Classes in C++
 There are 2 ways to define a member function: 
 1.Inside class definition 
 2.Outside class definition 
